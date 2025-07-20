@@ -1,0 +1,76 @@
+[11:52:00] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[11:52:00] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[11:52:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[11:52:00] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[11:52:00] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 8.1:amd64:6.3, installed at c:\Users\mayk\Desktop\RayzeCraft\rayzecraft-main\runtime\jre-legacy\windows-x64\jre-legacy
+[11:52:01] [main/INFO] [FML]: Searching c:\Users\mayk\Desktop\RayzeCraft\rayzecraft-main\mods for mods
+[11:52:01] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:52:01] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:52:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:52:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:52:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:52:05] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[11:52:05] [main/INFO] [FML]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[11:52:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:52:05] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:52:06] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:52:06] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:52:06] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[11:52:07] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: adas
+[11:52:12] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[11:52:13] [Client thread/INFO] [FML]: Could not load splash.properties, will create a default one
+[11:52:13] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 735246704 bytes (701 MB) / 860880896 bytes (821 MB) up to 3810525184 bytes (3634 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 576.52' Renderer: 'NVIDIA GeForce GT 1030/PCIe/SSE2'
+[11:52:13] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[11:52:13] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[11:52:13] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[11:52:13] [Client thread/INFO] [FML]: Replaced 1227 ore ingredients
+[11:52:14] [Client thread/INFO] [FML]: Searching c:\Users\mayk\Desktop\RayzeCraft\rayzecraft-main\mods for mods
+[11:52:15] [Client thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
+[11:52:15] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 121094500 nanos
+[11:52:16] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
+[11:52:16] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
+[11:52:16] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[11:52:16] [Client thread/INFO] [FML]: Processing ObjectHolder annotations
+[11:52:16] [Client thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[11:52:16] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[11:52:16] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[11:52:16] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[11:52:16] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[11:52:16] [Client thread/INFO] [FML]: Applying holder lookups
+[11:52:16] [Client thread/INFO] [FML]: Holder lookups applied
+[11:52:16] [Client thread/INFO] [FML]: Applying holder lookups
+[11:52:16] [Client thread/INFO] [FML]: Holder lookups applied
+[11:52:16] [Client thread/INFO] [FML]: Applying holder lookups
+[11:52:16] [Client thread/INFO] [FML]: Holder lookups applied
+[11:52:16] [Client thread/INFO] [FML]: Applying holder lookups
+[11:52:16] [Client thread/INFO] [FML]: Holder lookups applied
+[11:52:16] [Client thread/INFO] [FML]: Injecting itemstacks
+[11:52:16] [Client thread/INFO] [FML]: Itemstack injection complete
+[11:52:18] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[11:52:20] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...
+[11:52:20] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenAL
+[11:52:20] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[11:52:21] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.
+[11:52:21] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine started
+[11:52:29] [Client thread/INFO] [FML]: Max texture size: 16384
+[11:52:37] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 512x512 textures-atlas
+[11:52:39] [Client thread/INFO] [FML]: Applying holder lookups
+[11:52:39] [Client thread/INFO] [FML]: Holder lookups applied
+[11:52:39] [Client thread/INFO] [FML]: Injecting itemstacks
+[11:52:39] [Client thread/INFO] [FML]: Itemstack injection complete
+[11:52:40] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
+[11:52:40] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loaded
+[11:52:59] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!
+[11:52:59] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...
+[11:52:59] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.com
