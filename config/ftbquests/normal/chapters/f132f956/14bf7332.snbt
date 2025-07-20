@@ -1,0 +1,19 @@
+{
+	x: 11.5d,
+	y: -1.5d,
+	dependencies: [
+		"70649d71"
+	],
+	tasks: [{
+		uid: "e24b7223",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:crafting 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "91c1a32a",
+		type: "item",
+		item: "mysticalagriculture:crafting 1 4"
+	}]
+}

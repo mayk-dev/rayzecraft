@@ -1,0 +1,20 @@
+{
+	x: -2.0d,
+	y: 0.0d,
+	dependencies: [
+		"9e30cd65"
+	],
+	tasks: [{
+		uid: "85a16fc1",
+		type: "item",
+		items: [{
+			item: "tconstruct:tooltables 1 3"
+		}]
+	}],
+	rewards: [{
+		uid: "95459063",
+		type: "item",
+		item: "tconstruct:pattern",
+		count: 16
+	}]
+}

@@ -1,0 +1,20 @@
+{
+	x: 4.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"c51e3ead"
+	],
+	tasks: [{
+		uid: "dae6b428",
+		type: "item",
+		items: [{
+			item: "environmentaltech:void_ore_miner_cont_6"
+		}]
+	}],
+	rewards: [{
+		uid: "37992e8a",
+		type: "item",
+		item: "mysticalagradditions:insanium 1 1"
+	}]
+}

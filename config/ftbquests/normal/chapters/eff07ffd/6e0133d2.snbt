@@ -1,0 +1,70 @@
+{
+	title: "Twilight 100%",
+	x: 0.0d,
+	y: -1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"c51e3ead"
+	],
+	tasks: [{
+		uid: "ec54d8a8",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy"
+		}]
+	},
+	{
+		uid: "4f24c333",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 1"
+		}]
+	},
+	{
+		uid: "69cd13fe",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 2"
+		}]
+	},
+	{
+		uid: "e704ecbe",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 3"
+		}]
+	},
+	{
+		uid: "8f425804",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 4"
+		}]
+	},
+	{
+		uid: "6569c8a0",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 5"
+		}]
+	},
+	{
+		uid: "df90912b",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 6"
+		}]
+	},
+	{
+		uid: "719541a4",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "d0c29f21",
+		type: "item",
+		item: "mysticalagriculture:crafting 1 20"
+	}]
+}

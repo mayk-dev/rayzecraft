@@ -1,0 +1,18 @@
+{
+	x: 1.5d,
+	y: -1.5d,
+	shape: "diamond",
+	text: [
+		"Aqui na aba de Desafios você encontrará vários objetivos para completar e conseguir recompensas poderosas."
+	],
+	tasks: [{
+		uid: "03c2e9d2",
+		type: "checkmark",
+		title: "Desafios"
+	}],
+	rewards: [{
+		uid: "c8df8a4c",
+		type: "item",
+		item: "minecraft:diamond"
+	}]
+}

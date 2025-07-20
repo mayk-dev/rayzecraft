@@ -1,0 +1,22 @@
+{
+	x: 2.5d,
+	y: 18.0d,
+	text: [
+		"Coloque este bloco em cima da mesa que deseja automatizar, após isso coloque na mesa a receita e em seguida salve ela no bloco de automação, o input e output desse bloco é pela face de cima"
+	],
+	dependencies: [
+		"274b032a"
+	],
+	tasks: [{
+		uid: "ee89791f",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:interface"
+		}]
+	}],
+	rewards: [{
+		uid: "20d4f654",
+		type: "item",
+		item: "extendedcrafting:interface"
+	}]
+}

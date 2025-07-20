@@ -1,0 +1,15 @@
+{
+	x: 10.0d,
+	y: 18.0d,
+	description: "Era preciso tudo isto?",
+	dependencies: [
+		"0c118494"
+	],
+	tasks: [{
+		uid: "1ac1363f",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:singularity_ultimate"
+		}]
+	}]
+}

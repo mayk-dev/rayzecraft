@@ -1,0 +1,14 @@
+{
+	x: 5.5d,
+	y: 6.0d,
+	dependencies: [
+		"1b07c6a9"
+	],
+	tasks: [{
+		uid: "8571b169",
+		type: "item",
+		items: [{
+			item: "enderio:block_simple_alloy_smelter"
+		}]
+	}]
+}

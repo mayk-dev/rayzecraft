@@ -1,0 +1,20 @@
+{
+	x: 11.5d,
+	y: 15.0d,
+	dependencies: [
+		"0a8dfbce"
+	],
+	tasks: [{
+		uid: "d9f654bf",
+		type: "kill",
+		icon: "botania:gaiahead",
+		entity: "botania:doppleganger",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "5019501d",
+		type: "item",
+		item: "botania:manaresource 1 5",
+		count: 8
+	}]
+}

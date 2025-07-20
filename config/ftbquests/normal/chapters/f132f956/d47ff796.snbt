@@ -1,0 +1,36 @@
+{
+	title: "Processadores",
+	x: 8.5d,
+	y: 4.5d,
+	shape: "square",
+	dependencies: [
+		"aefb4c15"
+	],
+	tasks: [{
+		uid: "c9f3f8b3",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 23"
+		}]
+	},
+	{
+		uid: "5e4d8628",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 24"
+		}]
+	},
+	{
+		uid: "54849e30",
+		type: "item",
+		items: [{
+			item: "appliedenergistics2:material 1 22"
+		}]
+	}],
+	rewards: [{
+		uid: "fdf12346",
+		type: "item",
+		item: "harvestcraft:bbqpotatochipsitem",
+		count: 16
+	}]
+}

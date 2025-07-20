@@ -1,0 +1,19 @@
+{
+	x: 4.0d,
+	y: 1.5d,
+	dependencies: [
+		"e0a8cb67"
+	],
+	tasks: [{
+		uid: "5f67484e",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_crystal 1 4"
+		}]
+	}],
+	rewards: [{
+		uid: "31f4edd1",
+		type: "item",
+		item: "actuallyadditions:block_crystal 1 4"
+	}]
+}

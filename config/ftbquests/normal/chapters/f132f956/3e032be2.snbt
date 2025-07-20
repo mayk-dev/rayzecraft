@@ -1,0 +1,20 @@
+{
+	x: -0.5d,
+	y: 7.5d,
+	shape: "square",
+	dependencies: [
+		"7ffa77a8"
+	],
+	tasks: [{
+		uid: "6b3e29b3",
+		type: "item",
+		items: [{
+			item: "ic2:resource 1 12"
+		}]
+	}],
+	rewards: [{
+		uid: "2aeb183a",
+		type: "item",
+		item: "ic2:resource 1 12"
+	}]
+}

@@ -1,0 +1,22 @@
+{
+	x: 8.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"e45af062",
+		"88ced60c"
+	],
+	tasks: [{
+		uid: "70d1d281",
+		type: "item",
+		items: [{
+			item: "thermalexpansion:frame"
+		}]
+	}],
+	rewards: [{
+		uid: "56e3abd6",
+		type: "item",
+		item: "enderio:item_item_conduit",
+		count: 8
+	}]
+}

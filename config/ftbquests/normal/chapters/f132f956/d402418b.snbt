@@ -1,0 +1,24 @@
+{
+	x: 10.0d,
+	y: 3.0d,
+	dependencies: [
+		"0f0304b4"
+	],
+	tasks: [{
+		uid: "58c153cb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticaladaptations:inferium_seed_extractor"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "25e05234",
+		type: "item",
+		item: "mysticalagriculture:crafting 1 33"
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: -0.5d,
+	y: 6.0d,
+	dependencies: [
+		"fc503269",
+		"1bbf3674"
+	],
+	tasks: [{
+		uid: "6eb35558",
+		type: "item",
+		items: [{
+			item: "thermalfoundation:material 1 160"
+		}]
+	}]
+}

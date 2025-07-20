@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: 13.5d,
+	dependencies: [
+		"ddf532eb"
+	],
+	tasks: [{
+		uid: "d0c398f4",
+		type: "item",
+		items: [{
+			item: "mekanism:electrolyticcore"
+		}]
+	}]
+}

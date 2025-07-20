@@ -1,0 +1,18 @@
+{
+	x: 8.5d,
+	y: 19.5d,
+	description: "Tem certeza disso?",
+	dependencies: [
+		"f50835f3",
+		"deb1747d",
+		"5c2e6628",
+		"e569a23e"
+	],
+	tasks: [{
+		uid: "89578f75",
+		type: "item",
+		items: [{
+			item: "avaritia:resource 1 5"
+		}]
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "Mate 1000 Endermans",
+	icon: "enderio:block_enderman_skull",
+	x: 3.0d,
+	y: -3.0d,
+	shape: "rsquare",
+	description: "Só o básico",
+	dependencies: [
+		"c51e3ead"
+	],
+	tasks: [{
+		uid: "4ceca836",
+		type: "kill",
+		icon: "extendedcrafting:material 1 40",
+		entity: "minecraft:enderman",
+		value: 1000L
+	}],
+	rewards: [{
+		uid: "b604bac3",
+		type: "item",
+		item: "mysticalagriculture:crafting 1 21"
+	}]
+}

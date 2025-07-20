@@ -1,0 +1,14 @@
+{
+	x: -3.5d,
+	y: 0.0d,
+	dependencies: [
+		"9d2341d8"
+	],
+	tasks: [{
+		uid: "e32d5c7a",
+		type: "item",
+		items: [{
+			item: "tconstruct:smeltery_controller"
+		}]
+	}]
+}

@@ -1,0 +1,17 @@
+{
+	x: -2.0d,
+	y: 6.0d,
+	text: [
+		"A partir daqui recomendo adquirir uma Transmutation Table para facilitar o serviço"
+	],
+	dependencies: [
+		"2be13536"
+	],
+	tasks: [{
+		uid: "12e2e8d7",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_matter"
+		}]
+	}]
+}

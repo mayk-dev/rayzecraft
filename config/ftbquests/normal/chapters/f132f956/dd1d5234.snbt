@@ -1,0 +1,25 @@
+{
+	x: -5.0d,
+	y: 12.0d,
+	shape: "gear",
+	dependencies: [
+		"9325f9a9"
+	],
+	tasks: [{
+		uid: "cc85837e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mekanism:atomicdisassembler"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "bce9fb33",
+		type: "item",
+		item: "mekanism:controlcircuit 1 3"
+	}]
+}

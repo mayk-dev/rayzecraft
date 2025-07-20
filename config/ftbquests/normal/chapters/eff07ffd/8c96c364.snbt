@@ -1,0 +1,29 @@
+{
+	title: "Mate o Chaos Guardian",
+	icon: {
+		id: "draconicevolution:draconic_sword",
+		tag: {
+			Energy: 16000000
+		}
+	},
+	x: 3.0d,
+	y: 1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"c51e3ead",
+		"55fa00ed"
+	],
+	tasks: [{
+		uid: "dd4c82ea",
+		type: "kill",
+		icon: "draconicevolution:chaotic_core",
+		entity: "draconicevolution:chaosguardian",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "bde94305",
+		type: "item",
+		item: "draconicevolution:chaos_shard",
+		count: 4
+	}]
+}

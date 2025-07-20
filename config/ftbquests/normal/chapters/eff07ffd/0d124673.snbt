@@ -1,0 +1,22 @@
+{
+	title: "Mate o Gaia III",
+	x: 0.0d,
+	y: -3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"2d44b6f8",
+		"c51e3ead"
+	],
+	tasks: [{
+		uid: "e4842dca",
+		type: "kill",
+		icon: "botania:gaiahead",
+		entity: "extrabotany:gaiaiii",
+		value: 1L
+	}],
+	rewards: [{
+		uid: "d58c9795",
+		type: "item",
+		item: "extrabotany:material 1 3"
+	}]
+}

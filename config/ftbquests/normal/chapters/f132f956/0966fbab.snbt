@@ -1,0 +1,15 @@
+{
+	x: 8.5d,
+	y: 16.5d,
+	description: "Cuidado para não separar um átomo...",
+	dependencies: [
+		"028365e2"
+	],
+	tasks: [{
+		uid: "8d442f0d",
+		type: "item",
+		items: [{
+			item: "avaritia:resource 1 4"
+		}]
+	}]
+}

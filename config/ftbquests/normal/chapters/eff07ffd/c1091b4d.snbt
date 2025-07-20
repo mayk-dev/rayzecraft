@@ -1,0 +1,26 @@
+{
+	title: "Mate 5 Yetis Alfas",
+	icon: "twilightforest:alpha_fur",
+	x: 3.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"c51e3ead"
+	],
+	tasks: [{
+		uid: "93431039",
+		type: "kill",
+		entity: "twilightforest:yeti_alpha",
+		value: 5L
+	}],
+	rewards: [{
+		uid: "69745eb9",
+		type: "item",
+		item: {
+			id: "tconstruct:sharpening_kit",
+			tag: {
+				Material: "vibranium"
+			}
+		}
+	}]
+}

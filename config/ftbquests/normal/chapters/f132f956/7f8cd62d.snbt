@@ -1,0 +1,24 @@
+{
+	x: 17.5d,
+	y: 3.0d,
+	dependencies: [
+		"0104c0fd"
+	],
+	tasks: [{
+		uid: "df475cc4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticaladaptations:insanium_seed_extractor"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "9dc28964",
+		type: "item",
+		item: "mysticalagradditions:insanium 1 2"
+	}]
+}

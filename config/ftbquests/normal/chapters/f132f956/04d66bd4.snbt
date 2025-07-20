@@ -1,0 +1,20 @@
+{
+	x: 8.5d,
+	y: 1.5d,
+	shape: "pentagon",
+	dependencies: [
+		"2540d62a"
+	],
+	tasks: [{
+		uid: "9e294d89",
+		type: "item",
+		items: [{
+			item: "rftools:machine_frame"
+		}]
+	}],
+	rewards: [{
+		uid: "dc1a7816",
+		type: "item",
+		item: "rftools:machine_frame"
+	}]
+}

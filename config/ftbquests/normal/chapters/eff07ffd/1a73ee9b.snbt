@@ -1,0 +1,26 @@
+{
+	title: "A espada do Rei Arthur",
+	x: 1.5d,
+	y: -3.0d,
+	shape: "rsquare",
+	dependencies: [
+		"c51e3ead"
+	],
+	tasks: [{
+		uid: "98eda901",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "extrabotany:excaliber"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "ffe36988",
+		type: "item",
+		item: "extrabotany:material 1 1"
+	}]
+}

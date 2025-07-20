@@ -1,0 +1,24 @@
+{
+	x: 10.0d,
+	y: 1.5d,
+	shape: "rsquare",
+	text: [
+		"Este modpack utiliza a seguinte progressão de sementes do mystical:",
+		"",
+		"Você terá 3 a 4 sementes de certo tier para fazer, após isso você irá farmar as respectivas essências disponíveis para fazer um seed extractor, com ele, você pode utilizá-lo até 3 vezes para pegar outras seeds de seu respectivo tier"
+	],
+	dependencies: [
+		"2788122f"
+	],
+	tasks: [{
+		uid: "25ac01ae",
+		type: "checkmark",
+		title: "Progressão de Sementes",
+		icon: "minecraft:wheat_seeds"
+	}],
+	rewards: [{
+		uid: "4a7095b0",
+		type: "item",
+		item: "mysticalagriculture:crafting 1 16"
+	}]
+}

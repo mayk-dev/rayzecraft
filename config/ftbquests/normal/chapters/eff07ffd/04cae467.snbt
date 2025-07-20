@@ -1,0 +1,38 @@
+{
+	title: "Ferramentas Gigantes",
+	x: 3.0d,
+	y: -1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"c51e3ead"
+	],
+	tasks: [{
+		uid: "de4a4c4c",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:giant_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "8e2260d7",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "twilightforest:giant_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "a572fd4a",
+		type: "item",
+		item: "minecraft:nether_star"
+	}]
+}

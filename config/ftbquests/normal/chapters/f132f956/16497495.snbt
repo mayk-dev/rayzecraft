@@ -1,0 +1,18 @@
+{
+	x: 1.0d,
+	y: 16.5d,
+	description: "Pode ser comprado na loja do servidor",
+	text: [
+		"Funciona parecido com o relógio do ProjectE, porém somente com plantas e a base de energia"
+	],
+	dependencies: [
+		"a5666fb3"
+	],
+	tasks: [{
+		uid: "8c7f1e9c",
+		type: "item",
+		items: [{
+			item: "quantumflux:imaginarytime"
+		}]
+	}]
+}

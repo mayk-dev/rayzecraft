@@ -1,0 +1,20 @@
+{
+	x: 4.0d,
+	y: 0.0d,
+	dependencies: [
+		"9023579a"
+	],
+	tasks: [{
+		uid: "7fab3be3",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond"
+		}]
+	}],
+	rewards: [{
+		uid: "b443f857",
+		type: "item",
+		item: "harvestcraft:toastitem",
+		count: 32
+	}]
+}

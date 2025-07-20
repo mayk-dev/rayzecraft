@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: 3.0d,
+	dependencies: [
+		"fb1c6988"
+	],
+	tasks: [{
+		uid: "f1dd093d",
+		type: "item",
+		items: [{
+			item: "projecte:item.pe_fuel"
+		}]
+	}]
+}

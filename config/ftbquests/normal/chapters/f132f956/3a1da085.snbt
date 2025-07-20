@@ -1,0 +1,20 @@
+{
+	x: 1.0d,
+	y: 7.5d,
+	dependencies: [
+		"2039a841"
+	],
+	tasks: [{
+		uid: "98fb6199",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:material 1 19"
+		}]
+	}],
+	rewards: [{
+		uid: "b817ff3e",
+		type: "item",
+		item: "harvestcraft:watermelonjellysandwichitem",
+		count: 16
+	}]
+}

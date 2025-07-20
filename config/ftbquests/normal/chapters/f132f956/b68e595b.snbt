@@ -1,0 +1,14 @@
+{
+	x: 10.0d,
+	y: 7.5d,
+	dependencies: [
+		"f30a5dd7"
+	],
+	tasks: [{
+		uid: "481663f3",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:item_crystal_empowered 1 2"
+		}]
+	}]
+}

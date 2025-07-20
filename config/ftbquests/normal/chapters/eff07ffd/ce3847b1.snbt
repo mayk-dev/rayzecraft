@@ -1,0 +1,22 @@
+{
+	title: "Mate o Wither Boss 10 vezes",
+	x: 1.5d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"c51e3ead"
+	],
+	tasks: [{
+		uid: "7233c170",
+		type: "kill",
+		icon: "minecraft:skull 1 1",
+		entity: "minecraft:wither",
+		value: 10L
+	}],
+	rewards: [{
+		uid: "0c2fb1ad",
+		type: "item",
+		item: "harvestcraft:netherstartoastitem",
+		count: 32
+	}]
+}

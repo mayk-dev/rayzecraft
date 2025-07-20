@@ -1,0 +1,32 @@
+{
+	x: 16.0d,
+	y: 3.0d,
+	text: [
+		"Este tier possui 6 usos"
+	],
+	dependencies: [
+		"69bc8f5d"
+	],
+	tasks: [{
+		uid: "86fadbdb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "mysticaladaptations:supremium_seed_extractor"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "da4a3821",
+		type: "item",
+		item: "mysticalagriculture:crafting 1 37"
+	},
+	{
+		uid: "1af8527a",
+		type: "item",
+		item: "minecraft:nether_star"
+	}]
+}

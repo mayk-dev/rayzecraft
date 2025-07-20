@@ -1,0 +1,15 @@
+{
+	x: 8.5d,
+	y: 21.0d,
+	dependencies: [
+		"d3bf019d",
+		"a9db1014"
+	],
+	tasks: [{
+		uid: "c80b2425",
+		type: "item",
+		items: [{
+			item: "draconicevolution:chaotic_core"
+		}]
+	}]
+}

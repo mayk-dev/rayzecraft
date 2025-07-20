@@ -1,0 +1,25 @@
+{
+	title: "O início.",
+	x: -0.5d,
+	y: 0.0d,
+	text: [
+		"Bem vindo ao servidor!",
+		"Espero que se divirta jogando esta aventura única na 1.12.2",
+		"qualquer problema chame a Staff no jogo (caso esteja online) ou no discord abrindo ticket (apenas se for urgente)",
+		"",
+		"Com amor: Carl"
+	],
+	tasks: [{
+		uid: "39e5f049",
+		type: "item",
+		items: [{
+			item: "minecraft:log"
+		}]
+	}],
+	rewards: [{
+		uid: "97818cf5",
+		type: "item",
+		item: "harvestcraft:tacoitem",
+		count: 32
+	}]
+}

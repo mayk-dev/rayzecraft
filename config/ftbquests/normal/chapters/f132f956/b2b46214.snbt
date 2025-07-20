@@ -1,0 +1,14 @@
+{
+	x: -3.5d,
+	y: -4.5d,
+	dependencies: [
+		"b6caade6"
+	],
+	tasks: [{
+		uid: "717678fd",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:supremium_furnace"
+		}]
+	}]
+}

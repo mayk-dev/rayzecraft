@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: 12.0d,
+	dependencies: [
+		"67f0faca"
+	],
+	tasks: [{
+		uid: "c99a93cd",
+		type: "item",
+		items: [{
+			item: "mekanism:controlcircuit"
+		}]
+	}]
+}

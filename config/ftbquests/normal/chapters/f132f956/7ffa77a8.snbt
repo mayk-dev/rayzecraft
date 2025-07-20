@@ -1,0 +1,20 @@
+{
+	x: -0.5d,
+	y: 9.0d,
+	shape: "hexagon",
+	dependencies: [
+		"3a1da085"
+	],
+	tasks: [{
+		uid: "3fb93b8e",
+		type: "item",
+		items: [{
+			item: "mekanism:basicblock 1 8"
+		}]
+	}],
+	rewards: [{
+		uid: "140f31cb",
+		type: "item",
+		item: "mekanism:basicblock 1 8"
+	}]
+}

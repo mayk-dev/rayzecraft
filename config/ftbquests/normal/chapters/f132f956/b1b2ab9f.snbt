@@ -1,0 +1,16 @@
+{
+	x: 5.5d,
+	y: 22.5d,
+	shape: "hexagon",
+	dependencies: [
+		"610d2502",
+		"5ba5dd72"
+	],
+	tasks: [{
+		uid: "f8dc69ee",
+		type: "item",
+		items: [{
+			item: "projecte:transmutation_table"
+		}]
+	}]
+}

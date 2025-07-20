@@ -1,0 +1,14 @@
+{
+	x: 10.0d,
+	y: -3.0d,
+	dependencies: [
+		"14bf7332"
+	],
+	tasks: [{
+		uid: "dcb97abe",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:growth_accelerator"
+		}]
+	}]
+}

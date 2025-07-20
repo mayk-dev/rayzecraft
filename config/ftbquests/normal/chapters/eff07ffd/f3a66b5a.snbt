@@ -1,0 +1,21 @@
+{
+	x: 0.0d,
+	y: 0.0d,
+	shape: "rsquare",
+	dependencies: [
+		"c51e3ead"
+	],
+	tasks: [{
+		uid: "f5da9387",
+		type: "kill",
+		title: "Mate o Ender Dragon 3 vezes",
+		icon: "minecraft:skull 1 5",
+		entity: "minecraft:ender_dragon",
+		value: 3L
+	}],
+	rewards: [{
+		uid: "64a4304e",
+		type: "item",
+		item: "mysticalagriculture:crafting 1 20"
+	}]
+}
